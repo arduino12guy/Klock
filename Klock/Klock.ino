@@ -41,8 +41,8 @@ const char*  WIFI_PASSWORD   = "YOUR_PASSWORD";
 const char*  NTP_SERVER      = "pool.ntp.org";
 const long   GMT_OFFSET_SEC  = 19800;
 const int    DST_OFFSET_SEC  = 0;
-const float  LOC_LATITUDE    =  22.3072f;
-const float  LOC_LONGITUDE   =  73.1812f;
+const float  LOC_LATITUDE    =  xx.xxxxx;
+const float  LOC_LONGITUDE   =  xx.xxxxx;
 
 // ─────────────────────────────────────────────
 //  TIMING
