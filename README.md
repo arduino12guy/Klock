@@ -1,8 +1,6 @@
 # Klock
 **A minimal desk clock. Three modes. One button.**
 
-![Klock](https://www.instructables.com/assets/img/instructables-logo-v2.png)
-
 > *Only what's needed.*
 
 ESP32 + 12-LED WS2812B NeoPixel ring. Syncs to NTP over Wi-Fi. Automatically switches between warm and cool color themes at sunrise and sunset.
